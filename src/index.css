@@ -1,0 +1,7 @@
+*{
+    font-size: 14px;
+}
+body{
+    background-image: linear-gradient(to bottom right, #93D3FF, #F9CDFF, #3CCCFE) !important;
+    overflow-x: hidden;
+}
